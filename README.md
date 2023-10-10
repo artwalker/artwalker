@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Ethan-Wang-Architecture](https://github.com/artwalker/artwalker/assets/44759507/bc126209-c1fe-4955-90b6-88779e5cc839)
 <!--
 **artwalker/artwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Ethan-Wang-Architecture](https://github.com/artwalker/artwalker/assets/44759507/bc126209-c1fe-4955-90b6-88779e5cc839)
