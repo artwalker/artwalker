@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Welcome!
 ![Ethan-Wang-Architecture](https://github.com/artwalker/artwalker/assets/44759507/7e3b3716-f789-45ec-b406-1f3c54c093fc)
 <!--
 **artwalker/artwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🎓 Software Engineering Graduate Student at NCEPU
 - ⚡ Embracing the philosophy of "less is more"
 - 🚀 Passionate about becoming an embedded software engineer
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Megatronix
 - 🌱 I’m currently learning the Embeded Software Developing and AI Developing.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
