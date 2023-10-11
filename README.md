@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome!
-![background](https://github.com/artwalker/artwalker/assets/44759507/908f4626-74bb-496c-a101-8e9e97acf24e)
+![background_Ethan_wang](https://github.com/artwalker/artwalker/assets/44759507/ceff6aa0-34ff-4c30-9027-fd314590fcfc)
 <!--
 **artwalker/artwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
