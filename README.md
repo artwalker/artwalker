@@ -34,6 +34,7 @@ Embedded development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: EthanWang (X, Linkedin)
 
+![X-64x64](https://github.com/artwalker/artwalker/assets/44759507/7a03d249-e543-4d5c-bdc8-52633c598424)
 <a href =https://twitter.com/EthanWang999><img src=![X-64x64](https://github.com/artwalker/artwalker/assets/44759507/7a03d249-e543-4d5c-bdc8-52633c598424)></a>
 <a href ="https://www.linkedin.com/in/ethanwang999/"><img src="![linkedin-64x64](https://github.com/artwalker/artwalker/assets/44759507/bb850b44-2b9b-45c7-9898-afc62934a95d)" alt="linkedin"></a>
 <a href ="https://github.com/artwalker"><img src="![github-64x64](https://github.com/artwalker/artwalker/assets/44759507/a1dd1dfb-203e-41d9-ba42-62a7a514df39)" alt="github"></a>
