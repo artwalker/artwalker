@@ -20,7 +20,7 @@ At present, I am delving into STM32 library development, FreeRTOS kernel develop
 Additionally, I am in the process of building an office treadmill:walking:, enabling me to code while walking.  
 Currently, I am an intern at Megatronix and enjoy participating in various communities and competitions, dedicated to creating innovative solutions!:raising_hand_man:  
 
-**Skills:**
+**Skills:**  
 Embedded development
 
 **Tools:**  
