@@ -30,7 +30,10 @@ Currently, I am an intern at Megatronix and enjoy participating in various commu
 **Skills:**
 
 **Tools:**  
-![Git-Icon-48x48](https://github.com/artwalker/artwalker/assets/44759507/90fb27ab-7aff-4dbf-99dd-94a5e86f77e6)![github-Icon-48x48](https://github.com/artwalker/artwalker/assets/44759507/5098a9b0-a76d-4044-bd00-5dccf9ea35eb)![visual-studio-code-48x48](https://github.com/artwalker/artwalker/assets/44759507/c2dc87cc-25cb-4950-8226-e17c3b58d5e1)
+![visual-studio-code-48x48](https://github.com/artwalker/artwalker/assets/44759507/7209a414-5eac-4037-b190-1e82751a4f29)![git-48x48](https://github.com/artwalker/artwalker/assets/44759507/fc291f4e-e446-4656-9288-c9dee8931402)![github-48x48](https://github.com/artwalker/artwalker/assets/44759507/ca701b41-223b-4051-b8b6-80ef725ff783)
+
+
+
 
 
 
