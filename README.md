@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-HELLO!:wave:My name is **Ethan Wang**. I am currently pursuing a master's degree in Software Engineering at North China Electric Power University.:school:  
+HELLO! :wave: My name is **Ethan Wang**. I am currently pursuing a master's degree in Software Engineering at North China Electric Power University.:school:  
 I have a strong interest in embedded development and embedded operating systems, which naturally includes a passion for programming.:technologist:  
 At present, I am delving into STM32 library development, FreeRTOS kernel development and applications, as well as exploring the realm of artificial intelligence. My aspiration is to excel as an embedded software engineer and contribute to the creation of an exceptional open-source embedded operating system.:art:  
 Additionally, I am in the process of building an office treadmill:walking:, enabling me to code while walking.  
