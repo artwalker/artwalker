@@ -1,38 +1,25 @@
-### Hi there 👋, Welcome!
-![github-background](https://github.com/artwalker/artwalker/assets/44759507/cabe3c8e-1102-4bd8-b13d-780e29195c3f)
-<!--
-**artwalker/artwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, I'm Ethan 🧠⚔️
 
-Here are some ideas to get you started:
+I build AI systems that make their own decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-HELLO! :wave: My name is **Ethan Wang**. I am a Software Engineering. :school:  
-I have a strong interest in embedded development and embedded operating systems, which naturally includes a passion for programming. :technologist:  
-At present, I am delving into STM32 library development, FreeRTOS kernel development and applications, as well as exploring the realm of artificial intelligence. My aspiration is to excel as an embedded software engineer and contribute to the creation of an exceptional open-source embedded operating system. :art:  
-Currently, I am an intern at Megatronix and enjoy participating in various communities and competitions, dedicated to creating innovative solutions! :raising_hand_man:  
+#### What I'm working on
 
-**Skills:**  
-Embedded development  
-Operating system  
-TinyML  
+- **[Axiom](https://github.com/artwalker/axiom)** — Crypto trading execution engine (Go). Real-time market data, risk management, order execution.
+- **[Marvis](https://github.com/artwalker/marvis)** — AI decision brain (Node.js, Claude Opus). Autonomous trading decisions, no strategy lock-in.
+- **Open source** — Active contributor to [OpenClaw](https://github.com/openclaw/openclaw) (AI agent framework).
 
-**Tools:**  
-![visual-studio-code-48x48](https://github.com/artwalker/artwalker/assets/44759507/7209a414-5eac-4037-b190-1e82751a4f29)![git-48x48](https://github.com/artwalker/artwalker/assets/44759507/fc291f4e-e446-4656-9288-c9dee8931402)![github-48x48](https://github.com/artwalker/artwalker/assets/44759507/ca701b41-223b-4051-b8b6-80ef725ff783)
+#### How it works
 
-- 🎓 Software Engineer
-- ⚡ Embracing the philosophy of "less is more"
-- 🚀 Passionate about becoming an embedded software engineer
-- 🔭 I’m currently working on Megatronix
-- 🌱 I’m currently learning the Embeded Software Developing and AI Developing.
-- 😄 Pronouns: He/His
-- 📫 How to reach me: EthanWang (X, Linkedin)
+```
+Binance ← Axiom (data + safety) → Marvis (AI decides) → Axiom (executes) → Binance
+```
 
-[![X-64x64](./assets/x.png)](https://twitter.com/EthanWang999)[![linkedin-64x64](./assets/linkedin.png)](https://www.linkedin.com/in/ethanwang999)[![github-64x64](./assets/github.png)](https://github.com/artwalker)
+Axiom handles the infrastructure. Marvis handles the thinking. No hardcoded strategies — the AI analyzes market structure and decides independently.
+
+#### Tech
+
+`Go` `TypeScript` `Node.js` `Python` `SQLite` `Claude API` `Binance Futures`
+
+#### Find me
+
+[![X](./assets/x.png)](https://twitter.com/EthanWang999) [![LinkedIn](./assets/linkedin.png)](https://www.linkedin.com/in/ethanwang999) [![Blog](./assets/github.png)](https://www.novax.fun)
