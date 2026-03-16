@@ -1,4 +1,4 @@
-### Hey, I'm Ethan 🧠⚔️
+### Hey, I'm XING 🧠⚔️
 
 I build AI systems that make their own decisions.
 
