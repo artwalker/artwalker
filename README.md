@@ -17,15 +17,17 @@ I build AI systems that solve real problems. Not demos — production systems.
 
 ## Open Source
 
-- **[OpenClaw](https://github.com/nicepkg/openclaw)** Contributor — AI Agent framework. [PR #52104 merged](https://github.com/nicepkg/openclaw/pull/52104), [#46829](https://github.com/nicepkg/openclaw/pull/46829) & [#52102](https://github.com/nicepkg/openclaw/pull/52102) in review
-- **[EasyTranslator](https://github.com/ArtWalker/EasyTranslator)** — Multilingual CLI translation tool powered by OpenAI API (⭐ 131)
+- **[OpenClaw](https://github.com/nicepkg/openclaw)** — AI Agent framework enthusiast & active contributor
+- **[EasyTranslator](https://github.com/ArtWalker/EasyTranslator)** — Multilingual CLI translation tool powered by LLM API (⭐ 131)
 
 ## Writing
 
 Currently authoring 3 books (in progress):
 
 📘 **AI Hacking Guild: 思维即代码** — AI engineering methodology
+
 📗 **OpenClaw 实战指南** — Building your AI butler from scratch
+
 📕 **AI 的价值观: 解读 Claude 宪法** — AI safety & alignment
 
 ## Tech Stack
