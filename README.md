@@ -22,7 +22,7 @@ I build AI systems that solve real problems. Not demos — production systems.
 
 ## Writing
 
-Currently authoring 3 books (in progress):
+Currently authoring 3 books on WeChat Official Account「王鑫星」(in progress):
 
 📘 **AI Hacking Guild: 思维即代码** — AI engineering methodology
 
