@@ -1,21 +1,21 @@
 # Hi, I'm Xing
 
-I'm building **Sonechka**, a proprietary AI agent runtime and service engine for reliable, inspectable, workflow-specific automation.
+I'm building **Sonechka**, a self-developed AI agent runtime and service engine for reliable, inspectable, workflow-specific automation.
 
-I'm also building **Culprit**, the first commercial product powered by this direction: a private-deployment AI RCA Workbench for Jira-based engineering teams.
+I'm also building **Culprit**, the first commercial product from this direction: a private-deployment AI RCA Workbench for Jira-based engineering teams.
 
-Culprit turns Jira tickets, logs, attachments, domain-specific skills, and historical engineering knowledge into evidence-based RCA reports, expert diagnostic conversations, reviewed knowledge cards, and reusable incident knowledge.
+Culprit helps teams turn Jira tickets, logs, attachments, domain-specific skills, and historical engineering knowledge into evidence-based RCA reports, expert diagnostic conversations, reviewed knowledge cards, and reusable incident knowledge.
 
 The RCA workflow has already been validated in a real company environment through a company-specific **Python + Hermes** implementation. That internal RCAgent system can analyze Jira issues, inspect logs and evidence, answer expert diagnostic questions, and maintain a reviewed RCA knowledge base.
 
 The current Python + Hermes version works best for early custom delivery and founder-led pilots.
 
-I am now independently rebuilding and productizing the workflow in **Rust** as Culprit, while continuing to build **Sonechka** as a general-purpose agent runtime that can replace the earlier Hermes/OpenClaw-style execution layer and power multiple AI services beyond Culprit.
+I am now independently rebuilding and productizing the workflow in **Rust** as Culprit, while continuing to build **Sonechka** as a general-purpose agent runtime that can replace the earlier Hermes/OpenClaw-style execution layer and power multiple AI workflow services beyond Culprit.
 
 Website: https://culprit.novax.fun  
 Contact: wxinxings@gmail.com
 
-[](https://twitter.com/EthanWang999) [](https://www.linkedin.com/in/ethanwang999) [](https://github.com/ArtWalker)
+[![X](./assets/x.png)](https://twitter.com/EthanWang999) [![LinkedIn](./assets/linkedin.png)](https://www.linkedin.com/in/ethanwang999) [![GitHub](./assets/github.png)](https://github.com/ArtWalker)
 
 ---
 
@@ -72,6 +72,8 @@ Sonechka is the reusable runtime layer.
 
 ## Culprit
 
+**Culprit** is a private-deployment AI RCA Workbench for Jira-based engineering teams.
+
 Engineering teams often investigate the same kinds of issues again and again.
 
 The useful knowledge already exists, but it is scattered across:
@@ -102,8 +104,6 @@ It helps teams:
 The goal is simple:
 
 **help engineering teams investigate issues faster, preserve expert knowledge, reduce repeated debugging work, and make RCA more evidence-based, reviewable, and reusable.**
-
-Culprit is the first commercial vertical product built from the Sonechka direction, but the underlying runtime is designed to support many other agent-powered services.
 
 ---
 
@@ -169,6 +169,10 @@ A company-specific RCA skill pack can include:
 
 Customers can provide their own Jira data, logs, RCA documents, SOPs, and domain materials, or work with me through a paid customization engagement to build a company-specific RCA skill pack.
 
+In the current delivery model, company-specific skill packs can be built through founder-led customization.
+
+In the future product roadmap, I want Culprit to include a self-service **RCA Skill Studio**, where teams can maintain, test, review, and publish their own skill packs.
+
 This is where the product becomes useful:
 
 **AI RCA only works well when it understands the team's real systems, logs, and failure patterns.**
@@ -194,6 +198,41 @@ The Rust productization effort focuses on:
 The current Python + Hermes version is the early delivery engine.
 
 The Rust version is the long-term product foundation.
+
+---
+
+## Roadmap
+
+Some platform features are still under active development.
+
+Current validated capabilities:
+
+- Python + Hermes RCA workflow
+- Jira issue analysis
+- log and evidence analysis
+- expert diagnostic conversation
+- reviewed knowledge cards
+- knowledge-base search
+- operational dashboard
+- company-specific skill customization through founder-led delivery
+
+Current productization work:
+
+- Rust-based Culprit backend and frontend
+- product-kernel contracts
+- stronger review and audit workflow
+- improved private-deployment architecture
+- Sonechka runtime integration
+
+Future roadmap:
+
+- self-service RCA Skill Studio
+- skill pack versioning
+- skill evaluation and test bench
+- customer-managed skill updates
+- multi-service Sonechka runtime reuse
+- more model/provider adapters
+- broader workflow automation beyond RCA
 
 ---
 
@@ -255,9 +294,33 @@ If your team spends too much time reading Jira incidents, investigating repeated
 
 ---
 
+## What I'm Looking For
+
+I'm interested in opportunities around:
+
+- AI agent engineering
+- incident intelligence
+- root-cause analysis systems
+- LLM application infrastructure
+- developer productivity tools
+- engineering operations
+- workflow automation
+- retrieval and knowledge systems
+- applied AI product engineering
+- B2B AI products
+- DevTools and engineering productivity
+
+---
+
 ## Tech
 
 Rust · Python · TypeScript · LLMs · AI Agents · Jira · RCA · Incident Analysis · Retrieval · Evidence Handling · Hermes · Sonechka · Automation · TUI · Telegram Bots · Developer Tools · Workflow Intelligence
+
+---
+
+## Open Source
+
+- **[EasyTranslator](https://github.com/ArtWalker/EasyTranslator)** — Multilingual CLI translation tool powered by LLM APIs.
 
 ---
 
