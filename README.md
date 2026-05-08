@@ -1,19 +1,72 @@
 # Hi, I'm Xing
 
-I'm building **Culprit**, a private-deployment AI RCA Workbench for Jira-based engineering teams.
+I'm building **Sonechka**, a proprietary AI agent runtime and service engine for reliable, inspectable, workflow-specific automation.
+
+I'm also building **Culprit**, the first commercial product powered by this direction: a private-deployment AI RCA Workbench for Jira-based engineering teams.
 
 Culprit turns Jira tickets, logs, attachments, domain-specific skills, and historical engineering knowledge into evidence-based RCA reports, expert diagnostic conversations, reviewed knowledge cards, and reusable incident knowledge.
 
-The workflow has already been validated in a real company environment through a company-specific **Python + Hermes** implementation. That internal RCAgent system can analyze Jira issues, inspect logs and evidence, answer expert diagnostic questions, and maintain a reviewed RCA knowledge base.
+The RCA workflow has already been validated in a real company environment through a company-specific **Python + Hermes** implementation. That internal RCAgent system can analyze Jira issues, inspect logs and evidence, answer expert diagnostic questions, and maintain a reviewed RCA knowledge base.
 
 The current Python + Hermes version works best for early custom delivery and founder-led pilots.
 
-I am now independently rebuilding and productizing the system in **Rust** as Culprit, while continuing to build and optimize **Sonechka**, my self-developed AI agent runtime.
+I am now independently rebuilding and productizing the workflow in **Rust** as Culprit, while continuing to build **Sonechka** as a general-purpose agent runtime that can replace the earlier Hermes/OpenClaw-style execution layer and power multiple AI services beyond Culprit.
 
 Website: https://culprit.novax.fun  
 Contact: wxinxings@gmail.com
 
-[![X](./assets/x.png)](https://twitter.com/EthanWang999) [![LinkedIn](./assets/linkedin.png)](https://www.linkedin.com/in/ethanwang999) [![GitHub](./assets/github.png)](https://github.com/ArtWalker)
+[](https://twitter.com/EthanWang999) [](https://www.linkedin.com/in/ethanwang999) [](https://github.com/ArtWalker)
+
+---
+
+## Sonechka
+
+**Sonechka** is my self-developed AI agent runtime and service engine.
+
+It is not a thin LLM wrapper.
+
+It is also not just a rewrite of Hermes or OpenClaw.
+
+Sonechka is being built to replace the earlier Hermes/OpenClaw-style execution layer with a more reliable, inspectable, customizable, and commercially deployable runtime.
+
+Culprit is the first commercial product being built around this direction, but Sonechka is not limited to Culprit.
+
+Sonechka is designed to power multiple kinds of AI workflow services, including:
+
+- AI RCA and incident intelligence
+- personal agents
+- coding agents
+- workflow automation
+- tool orchestration
+- evidence-based analysis
+- private-deployment enterprise agents
+- TUI / Telegram / CLI / future UI interaction surfaces
+
+Its core principles are:
+
+- evidence before conclusion
+- review before irreversible action
+- capability boundaries before tool use
+- workflow recipes before one-off prompts
+- auditability before autonomy
+- runtime before model dependency
+
+Sonechka is designed for:
+
+- reliable long-running task execution
+- evidence-first reasoning
+- retrieval and evidence handling
+- memory and continuity
+- workflow automation
+- auditability and traceability
+- visible tool-use boundaries
+- human review gates
+- multi-provider model support
+- multi-service runtime reuse
+
+Culprit is the first vertical product.
+
+Sonechka is the reusable runtime layer.
 
 ---
 
@@ -49,6 +102,8 @@ It helps teams:
 The goal is simple:
 
 **help engineering teams investigate issues faster, preserve expert knowledge, reduce repeated debugging work, and make RCA more evidence-based, reviewable, and reusable.**
+
+Culprit is the first commercial vertical product built from the Sonechka direction, but the underlying runtime is designed to support many other agent-powered services.
 
 ---
 
@@ -142,35 +197,6 @@ The Rust version is the long-term product foundation.
 
 ---
 
-## Sonechka
-
-I am building **Sonechka**, my self-developed AI agent runtime, to make this kind of workflow automation more reliable, inspectable, customizable, and commercially scalable.
-
-Sonechka is not a thin LLM wrapper.
-
-It is also not just a rewrite of Hermes or OpenClaw.
-
-I am taking the useful lessons from earlier agent workflows, real Jira analysis experience, coding agents, and workflow automation systems, while avoiding the parts that do not fit real commercial deployment.
-
-Sonechka is designed for:
-
-- reliable long-running task execution
-- evidence-first reasoning
-- retrieval and evidence handling
-- memory and continuity
-- workflow automation
-- auditability and traceability
-- visible tool-use boundaries
-- human review gates
-- TUI and Telegram interaction surfaces
-- multi-provider model support
-
-The principle is:
-
-**evidence before conclusion, review before promotion, runtime before model dependency.**
-
----
-
 ## Model & Provider Layer
 
 Sonechka is designed to be model-provider agnostic.
@@ -229,33 +255,9 @@ If your team spends too much time reading Jira incidents, investigating repeated
 
 ---
 
-## What I'm Looking For
-
-I'm interested in opportunities around:
-
-- AI agent engineering
-- incident intelligence
-- root-cause analysis systems
-- LLM application infrastructure
-- developer productivity tools
-- engineering operations
-- workflow automation
-- retrieval and knowledge systems
-- applied AI product engineering
-- B2B AI products
-- DevTools and engineering productivity
-
----
-
 ## Tech
 
 Rust · Python · TypeScript · LLMs · AI Agents · Jira · RCA · Incident Analysis · Retrieval · Evidence Handling · Hermes · Sonechka · Automation · TUI · Telegram Bots · Developer Tools · Workflow Intelligence
-
----
-
-## Open Source
-
-- **[EasyTranslator](https://github.com/ArtWalker/EasyTranslator)** — Multilingual CLI translation tool powered by LLM APIs.
 
 ---
 
